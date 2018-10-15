@@ -1,0 +1,8 @@
+{
+  "name": "Enquetes",
+  "description": "Enquetes for stronger.",
+  "repository": "https://github.com/uekichi/node-js-http",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
